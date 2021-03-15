@@ -1,5 +1,5 @@
 
-1.Create 'simple chat' database in your system, then import the sql file provided here.
+1.Create a database called 'simple chat'  in your mysql server, then import the sql file provided here.
 
 2.Make your own user id and password using registration
 
